@@ -1,0 +1,2 @@
+cluster/** text eol=lf
+sample_code_submission/artifacts/** -text
